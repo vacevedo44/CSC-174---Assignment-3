@@ -11,20 +11,24 @@
 
       <header>
          <a href="index.php">
-         <img href="index.php" src="images/dms.jpg" alt="computer">
+         <img href="index.php" src="images/seattle.jpg" alt="computer">
          </a>
       </header>
+
+      <?php include "inc/main-menu.inc"; ?>
 
       <main>
          <h1>Welcome to the DMS Majors</h1>
          <p>
-            This is our Home Page for Assignment 3: Information Architecture
+            Home Page for Assignment 3: Information Architecture
             <br> Our Team's Roles:
             <br> Alyssa: Information Architect 
             <br> Vaibhav: Visual Designer 
-            <br> Vanessa: Tech Coder
+            <br> Vanessa: Technical Coder
          </p>
       </main>
+
+      <footer>CSC 174: Advanced Front-end Web Design and Development</footer>
 
       <script src="http://code.jquery.com/jquery.js"></script>
       <script src="js/menu-highlighter.js"></script>	
