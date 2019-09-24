@@ -25,8 +25,7 @@
       <ul>
          <li><a href="jen.php">Main</a></li>
          <li><a href="now_dms.php">Why DMS?</a></li>
-         <li><a href="university.php">BCS Interest</a></li>
-         <li><a href="interestsdms.php">Technology Interest</a></li>
+         <li><a href="interestsdms.php">Other Academic Interests</a></li>
       </ul>
    </nav>
 

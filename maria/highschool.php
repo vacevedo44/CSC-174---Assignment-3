@@ -25,8 +25,7 @@
       <ul>
          <li><a href="maria.php">Main</a></li>
          <li><a href="universitydms.php">Why DMS?</a></li>
-         <li><a href="highschool.php">High School</a></li>
-         <li><a href="hobbies.php">Hobbies</a></li>
+         <li><a href="highschool.php">Other Academic Interests</a></li>
       </ul>
    </nav>
 

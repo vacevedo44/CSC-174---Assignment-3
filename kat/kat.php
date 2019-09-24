@@ -25,8 +25,7 @@
       <ul>
          <li><a href="kat.php">Main</a></li>
          <li><a href="dms.php">Why DMS?</a></li>
-         <li><a href="spanish.php">Spanish Minor</a></li>
-         <li><a href="clusters.php">Clusters</a></li>
+         <li><a href="spanish.php">Other Academic Interests</a></li>
       </ul>
    </nav>
 
