@@ -25,7 +25,7 @@
       </nav>
 
       <main>
-         <h1>Welcome to the DMS Majors</h1>
+         <h1>Meet the DMS Majors!</h1>
          <p>
             Home Page for Assignment 3: Information Architecture
             <br> Our Team's Roles:
