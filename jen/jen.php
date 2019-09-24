@@ -24,9 +24,9 @@
    <nav class="inner_nav">
       <ul>
          <li><a href="jen.php">Main</a></li>
-         <li><a href="interestsdms.php">Why DMS?</a></li>
-         <li><a href="university.php">Other University Interests</a></li>
-         <li><a href="now.php">Now</a></li>
+         <li><a href="now_dms.php">Why DMS?</a></li>
+         <li><a href="university.php">BCS Interest</a></li>
+         <li><a href="interestsdms.php">Technology Interest</a></li>
       </ul>
    </nav>
 
