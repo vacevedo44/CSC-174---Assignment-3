@@ -24,8 +24,8 @@
    <nav class="inner_nav">
       <ul>
          <li><a href="maria.php">Main</a></li>
+         <li><a href="universitydms.php">Why DMS?</a></li>
          <li><a href="highschool.php">High School</a></li>
-         <li><a href="university.php">University</a></li>
          <li><a href="hobbies.php">Hobbies</a></li>
       </ul>
    </nav>
