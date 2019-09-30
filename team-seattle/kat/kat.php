@@ -1,9 +1,8 @@
 <?php 
 $pageTitle = "Kat Fuss | Assignment 3: Information Architecture";
-include('inc/header.php'); ?>
-
-
-   <body >   
+include "../inc/header.inc"; 
+?>
+  <body >   
       <div class="body">
          <nav class="navbar">
                   <div class="dropdown">
@@ -22,6 +21,8 @@ include('inc/header.php'); ?>
                   <a class="nav-element" href="kat.php">Main</a>
                   <a class="nav-element" href="../index.php">Home</a>     
          </nav>
+
+ 
          <header>
             <img href="kat.php" src="../images/kat.jpg" alt="kat">
             <h1 style="text-decoration: none">Kate Fuss</h1>

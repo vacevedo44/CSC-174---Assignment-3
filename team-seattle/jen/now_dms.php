@@ -1,8 +1,8 @@
 <?php 
 $pageTitle = "Jennifer Ngene | Assignment 3: Information Architecture";
-include('inc/header.php'); ?>
-
-   <body >   
+include "../inc/header.inc"; 
+?>
+     <body >   
       <div class="body">
          <nav class="navbar">
                   <div class="dropdown">
@@ -19,7 +19,7 @@ include('inc/header.php'); ?>
                   <a class="nav-element" href="interestsdms.php">Academia</a>
                   <a class="nav-element" href="now_dms.php">Why DMS?</a>
                   <a class="nav-element" href="jen.php">Main</a>
-                  <a class="nav-element" href="../index.php">Home</a>     
+                  <a class="nav-element" href="../index.php">Home</a>    
          </nav>
          <header>
             <img href="kat.php" src="../images/jen.jpg" alt="Jen">

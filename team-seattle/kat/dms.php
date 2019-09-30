@@ -1,8 +1,9 @@
 <?php 
 $pageTitle = "Kat Fuss | Assignment 3: Information Architecture";
-include('inc/header.php'); ?>
+include "../inc/header.inc"; 
+?>
 
-   <body >   
+  <body >   
       <div class="body">
          <nav class="navbar">
                   <div class="dropdown">
@@ -10,17 +11,17 @@ include('inc/header.php'); ?>
                      <img src="../images/arrow.png" class="arrow" alt="">
                     </button>
                     <div class="dropdown-content">
-                        <a href="kat.php">Kat Fuss</a>
-                        <a href="../jen/jen.php">Jennifer Ngene</a>
-                        <a href="../maria/maria.php">Maria Mancheno</a>
-                      </div>
-                    </div> 
-                    
-                    <a class="nav-element" href="spanish.php">Academia</a>
-                    <a class="nav-element" href="dms.php">Why DMS?</a>
-                    <a class="nav-element" href="kat.php">Main</a>
-                    <a class="nav-element" href="../index.php">Home</a>     
-           </nav>
+                      <a href="kat.php">Kat Fuss</a>
+                      <a href="../jen/jen.php">Jennifer Ngene</a>
+                      <a href="../maria/maria.php">Maria Mancheno</a>
+                    </div>
+                  </div> 
+                  
+                  <a class="nav-element" href="spanish.php">Academia</a>
+                  <a class="nav-element" href="dms.php">Why DMS?</a>
+                  <a class="nav-element" href="kat.php">Main</a>
+                  <a class="nav-element" href="../index.php">Home</a>     
+         </nav>
            <header>
               <img href="kat.php" src="../images/kat.jpg" alt="kat">
               <h1 style="text-decoration: none">Kate Fuss</h1>

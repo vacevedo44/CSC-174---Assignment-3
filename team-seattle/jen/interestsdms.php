@@ -1,6 +1,7 @@
 <?php 
 $pageTitle = "Jennifer Ngene | Assignment 3: Information Architecture";
-include('inc/header.php'); ?>
+include "../inc/header.inc"; 
+?>
 
    <body >   
       <div class="body">
