@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = "Maria Mancheno | Assignment 3: Information Architecture"
+$pageTitle = "Maria Mancheno | Assignment 3: Information Architecture";
 include('inc/header.php'); ?>
 
    <body >   
