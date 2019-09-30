@@ -21,8 +21,8 @@
                     </div>
                   </div> 
                   
-                  <a class="nav-element" href="spanish.php">Spanish</a>
-                  <a class="nav-element" href="dms.php">DMS</a>
+                  <a class="nav-element" href="spanish.php">Academia</a>
+                  <a class="nav-element" href="dms.php">Why DMS?</a>
                   <a class="nav-element" href="kat.php">Main</a>
                   <a class="nav-element" href="../index.php">Home</a>     
          </nav>

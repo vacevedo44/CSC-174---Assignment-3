@@ -22,7 +22,7 @@
                   </div> 
                   
                   <a class="nav-element" href="highschool.php">Academia</a>
-                  <a class="nav-element" href="universitydms.php">DMS</a>
+                  <a class="nav-element" href="universitydms.php">Why DMS?</a>
                   <a class="nav-element" href="maria.php">Main</a>
                   <a class="nav-element" href="../index.php">Home</a>     
          </nav>
