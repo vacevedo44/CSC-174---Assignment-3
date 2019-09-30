@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="utf-8">
-      <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-      <title>Maria Mancheno | Assignment 3: Information Architecture</title>
-      <link rel="stylesheet" href="../css/secondStyles.css">
-   </head>
-
-   <body >   
+<?php 
+$pageTitle = "Maria Mancheno | Assignment 3: Information Architecture";
+include "../inc/header.inc"; 
+?>
+ <body >   
       <div class="body">
          <nav class="navbar">
                   <div class="dropdown">
@@ -41,16 +36,7 @@
       </div>
    </main>
    
-   <footer>
-      <p>CSC 174: Advanced Front End Web Design and Development</p>
-   </footer>
-
-      <script src="http://code.jquery.com/jquery.js"></script>
-      <script src="../js/menu-highlighter.js"></script>	
-   </div>
-   </body>
-
-</html>
+   <?php include "../inc/footer.inc"; ?>
 
 
 

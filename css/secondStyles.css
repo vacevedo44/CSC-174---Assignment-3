@@ -1,4 +1,4 @@
-html,body {
+body {
     margin: 0px;
     padding: 0px;
     font-family: 'Montserrat', sans-serif;
@@ -135,4 +135,8 @@ html,body {
     margin-top: 50px;
     color: grey;   
     text-align: center;
+}
+
+.is-current {
+  background-color: #525252;
 }

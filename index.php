@@ -72,14 +72,5 @@
          </div>
       </main>
       
-      <div class="footer">
+  <?php include "../inc/footer.inc"; ?>
       
-         <footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-      
-      </div>
-      <script src="http://code.jquery.com/jquery.js"></script>
-      <script src="js/menu-highlighter.js"></script>	
-   </div>
-   </body>
-
-</html>
