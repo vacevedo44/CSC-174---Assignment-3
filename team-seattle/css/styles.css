@@ -150,4 +150,8 @@ margin: 20px 37px 20px 37px;
   .image:hover {
     box-shadow: 0 0 10px 1px #EEA17A;
   }
+
+.is-current {
+  background-color: #525252;
+}
   

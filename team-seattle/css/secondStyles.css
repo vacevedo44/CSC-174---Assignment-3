@@ -136,3 +136,7 @@ body {
     color: grey;   
     text-align: center;
 }
+
+.is-current {
+  background-color: #525252;
+}
