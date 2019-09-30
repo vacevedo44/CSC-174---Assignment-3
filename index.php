@@ -50,7 +50,7 @@
                               <p class="role-text">IA</p>
                         </div>
                         <div class="role-name">
-                          <p class="role-text">Vanessa Acevedo</p>
+                          <p class="role-text">Alyssa Nelson</p>
                         </div>
                    </div>
                    <div class="middle-card" >
@@ -66,7 +66,7 @@
                               <p class="role-text">Technical Coder</p>
                         </div>
                         <div class="role-name">
-                          <p class="role-text">Alyssa Nelson</p>
+                          <p class="role-text">Vanessa Acevedo</p>
                         </div>
                   </div>
          </div>
