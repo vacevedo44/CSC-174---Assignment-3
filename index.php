@@ -12,7 +12,7 @@
       <div class="container">
       <header>
          <a href="index.php">
-         <img class="seattle" href="index.php" src="images/seattle.jpg" alt="computer">
+         <img class="seattle" src="images/seattle.jpg" alt="computer">
          </a>
       </header>
 
@@ -20,21 +20,21 @@
          <h1 >MEET THE <span>DMS</span> MAJORS!</h1>
         <div class="team">
             <div class="left-card">
-                  <a href="kat/kat.php"><img src="images/kat.jpg" class="image" href="kat/kat.php" alt="..."></a>
+                  <a href="kat/kat.php"><img src="images/kat.jpg" class="image" alt="..."></a>
                   <div class="card-name">
-                    <a href="kat/kat.php" id="" class="card-text">Kat Fuss</a>
+                    <a href="kat/kat.php" class="card-text">Kat Fuss</a>
                   </div>
              </div>
              <div class="middle-card" >
                   <a href="jen/jen.php"><img src="images/jen.jpg" class="image" alt="..."></a>
                   <div class="card-name">
-                    <a href="jen/jen.php" id="" class="card-text">Jennifer Ngene</a>
+                    <a href="jen/jen.php" class="card-text">Jennifer Ngene</a>
                   </div>
              </div>
             <div class="right-card">
                   <a href="maria/maria.php"><img src="images/maria.jpg" class="image" alt="..."></a> 
                   <div class="card-name">
-                    <a href="maria/maria.php" id="" class="card-text">Maria Mancheno</a>
+                    <a href="maria/maria.php" class="card-text">Maria Mancheno</a>
                   </div>
             </div>
         </div>
