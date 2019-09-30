@@ -1,0 +1,138 @@
+html,body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+  }
+  .body{
+    padding: 10px 30px 10px 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 100%;
+    margin-top:0px;
+    background-color: black;
+  }
+   header{
+     margin: 10% 20% 10% 20%;
+     text-align: center;
+   }
+   h1{
+    color: white;
+    text-decoration: none;
+    font-size: 70px;
+    margin-bottom: 30px;
+   }  
+   
+   h2{
+     color: white;
+   }
+   hr{
+    border: 3px solid #EEA17A;
+    width: 500px;
+  }
+
+  main{
+   text-align: center;
+   color: white;
+   line-height: 30px;
+   background-color: #525252;
+   padding: 20px 30px 20px 30px;
+   
+    
+  }
+  .main-text{
+    text-align: justify;
+  }
+  .main-heading{
+    
+    font-size: 50px;
+    margin-top: 10px;
+  }
+  .navbar {
+    margin-top: 5px 5px 5px 5px;
+    overflow: hidden;
+    background-color: black;
+    
+  }
+  
+  .nav-element{
+    width: 70px;
+    border: 2px solid #ddd;
+    border-radius: none;
+  }
+  .arrow{
+    color: white;
+    width: 15px;
+    height: 10px;
+  }
+  
+  .navbar a {
+    float: right;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: 2px solid #ddd;
+    border-radius: 0px;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #EEA17A;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    border: 2px solid #ddd;
+    border-radius: none;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  
+  .dropdown-content a {
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  footer{
+    margin-top: 50px;
+    color: grey;   
+    text-align: center;
+}
