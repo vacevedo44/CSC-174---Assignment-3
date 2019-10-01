@@ -18,7 +18,7 @@ include "../inc/header.inc";
                   </div> 
                   
                   <a class="nav-element" href="interestsdms.php">Academia</a>
-                  <a class="nav-element" href="now_dms.php">Why DMS?</a>
+                  <a id="dms" href="now_dms.php">Why DMS?</a>
                   <a class="nav-element" href="jen.php">Main</a>
                   <a class="nav-element" href="../index.php">Home</a>    
          </nav>

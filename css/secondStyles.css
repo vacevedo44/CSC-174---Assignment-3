@@ -59,7 +59,15 @@ body {
     background-color: black;
     
   }
-  
+  #dms{
+    width: 70px;
+    height: 28px;
+    padding-top: 5px;
+    border: 2px solid #ddd;
+    border-radius: none;
+    font-size: 16px;
+    
+  }
   .nav-element{
     width: 70px;
     border: 2px solid #ddd;
